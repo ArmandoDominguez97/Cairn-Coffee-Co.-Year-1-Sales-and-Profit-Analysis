@@ -11,3 +11,24 @@ Insights and recommendations are provided on the following areas:
 - **Sales Trend Analysis:** Evaluation of sales patterns througout the first year in operation, focusing on the total revenue and profit across each month and quarter.
 - **Product Performance:** An analysis of Cairn Coffee's products, to identify top-performining products worthy of continued investment, and to uncover products that are lagging significantly, and may require targeted intervention.
 - **Channel Comparision:** Cairn Coffee sells it's products through four distinct channels, each evaluated on its contribution to total profit, and operational efficiecy.
+
+## Data Structure
+- **Source:** This analysis is was done on real sales data for an actual coffee company. For confidentiality purposes, I have replaced the real data with syntheitc "dummy" data and replaced the company's branding as well.
+- **Values:** 630 transactions in dataset
+- **Duration:** April 2025 - March 2026
+- **Scope:** Three physical store locations and one online store across southwestern CT.
+  
+| Column | Description |
+|---|---|
+| `Order ID` | Unique transaction identifier |
+| `Date` | Branch code |
+| `Product` | City where the branch is located |
+| `Category` | Product category |
+| `Channel` | Price per unit |
+| `Quantity` | Number of units sold |
+| `Price` | Transaction date |
+| `Unit Price` | Transaction time |
+| `Revenue` | Ewallet, Cash, or Credit Card |
+| `Cost` | Customer rating (1–10) |
+| `Profit` | Margin applied to the transaction |
+
