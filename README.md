@@ -60,6 +60,8 @@ A review of product and category performance reveal the following insights:
 
 ## Channel Performance
 
--The Online and Downtown Shop channels account for 78% of total profit, making them the clear engines of the business as far as channel is concerned. 
+A deeper look into each sales channel uncovered the following insights: 
+
+- The Online and Downtown Shop channels account for 78% of total profit, making them the clear engines of the business as far as channel is concerned. 
 - One thing to note is that all four channels processed a similar number of transactions. The main differentiator was purchase size, as the two-top performing channels moved nearly twice as many units per transaction as the farmer's market, and nearly three times as many as the mall kiosk.
 - Profit margins were consistent across all channels, pointing to a reliable level of operational efficiency for every revenue source. If the same efficienct can be replicated for new channels, a winter or holiday market may be worth considering, as a strategy for recovering lost revenue whenever the farmer's market and cold brew demand are out of season. 
