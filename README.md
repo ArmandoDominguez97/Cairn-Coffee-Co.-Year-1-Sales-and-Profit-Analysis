@@ -1,6 +1,4 @@
 # Cairn Coffee Year 1 Sales and Profit Analysis
-![Cairn Coffee Logo](https://github.com/ArmandoDominguez97/Cairn-Coffee-Co.-Year-1-Sales-and-Profit-Analysis/blob/8090a0189789d1eace216d23fbba3304d820e84c/Screenshot%202026-07-12%20182341.png)
-## Table of Contents
 
 ## Background
 Cairn Coffee, established in 2025, is a small craft coffee company establised and based in West Haven, CT. Cairn Coffee offers a range of products such as coffee drinks, packaged beans and branded merch.
@@ -38,6 +36,7 @@ Cairn Coffee's first year in operation saw it generate $74,428.00 in revenue and
 ![Year 1 Dashboard](https://github.com/ArmandoDominguez97/Cairn-Coffee-Co.-Year-1-Sales-and-Profit-Analysis/blob/491feb6decd309a197e6b77417eabf396f0f99f1/Visualizations/Cairn_Coffee_Dashboard.png)
 [Click Here](https://public.tableau.com/app/profile/armando.dominguez/viz/CairnCoffeeYear1SalesAnalysis/Dashboard12) to view the full interactive version of the dashboard
 
+## Insights
 ### Month-over-Month & Quarterly Trends
 
 ![Profit and Revenue Snapshot](https://github.com/ArmandoDominguez97/Cairn-Coffee-Co.-Year-1-Sales-and-Profit-Analysis/blob/7b7cabe884d177d5c78941ae92f6efe07375c908/Visualizations/Revenue%20%26%20Profit.png)
@@ -63,5 +62,11 @@ A review of product and category performance reveal the following insights:
 A deeper look into each sales channel uncovered the following insights: 
 
 - The Online and Downtown Shop channels account for 78% of total profit, making them the clear engines of the business as far as channel is concerned. 
-- One thing to note is that all four channels processed a similar number of transactions. The main differentiator was purchase size, as the two-top performing channels moved nearly twice as many units per transaction as the farmer's market, and nearly three times as many as the mall kiosk.
-- Profit margins were consistent across all channels, pointing to a reliable level of operational efficiency for every revenue source. If the same efficienct can be replicated for new channels, a winter or holiday market may be worth considering, as a strategy for recovering lost revenue whenever the farmer's market and cold brew demand are out of season. 
+- All four channels processed a similar number of transactions; the main differentiator was purchase size, as the two-top performing channels moved nearly twice as many units per transaction as the farmer's market, and nearly three times as many as the mall kiosk.
+- Profit margins were consistent across all channels, pointing to a reliable level of operational efficiency for every location. If the same efficienct can be replicated for new channels, a winter or holiday market may be worth considering, as a strategy for recovering lost revenue whenever the farmer's market and cold brew demand are out of season.
+
+## Recommendations
+
+- Coffee Beans have not only established themselves as the company's profit engine, but they also reflect a loyal customer base that consistently enjoys drinking Cairn Coffee. That loyalty can be targeted with promotions and product bundles to boost sales in the other categories. For instance, merchandise can be promoted to coffee bean buyers, as loyal customers are the most likely to purchase merchandise that allows them to rep the brand.  
+- Addressing the company's revenue drop in Q3 requires a channel and product response. On the channel side, the consistent margins Cairn has maintained across all existing channels suggest the feasibility of a winter or holiday market to recover farmers' market demand after October. This new channel could push Espresso as the cold-weather analogue to Cold Brew's summer demand, since Espresso is served at high temperatures and it outsells drip coffee, the other candidate for such a push.
+- All four channels processed comparable transaction volumes throughout the year, suggesting that the mall kiosk's underperformance is due to a gap in basket size. Given the kiosk's location within a high-foot-traffic retail center, it may be most advantageous to embrace convenience and capitalize on the format's natural appeal to retail shoppers. This would have to be done by prioritizing made-to-order beverages over the more generally popular coffee beans at this location. 
