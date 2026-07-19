@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following areas:
 - **Channel Comparision:** Cairn Coffee sells it's products through four distinct channels, each evaluated on its contribution to total profit, and operational efficiency.
 
 ## Data Structure
-- **Source:** This analysis is was done on real sales data for an actual coffee company. For confidentiality purposes, I have replaced the real data with syntheitc "dummy" data and replaced the company's name as well.
+- **Source:** This analysis is was done on real sales data for an actual coffee company. For confidentiality purposes, I have replaced the real data with syntheitc "dummy" data and replaced the company's name as well. [Click Here](https://github.com/ArmandoDominguez97/Cairn-Coffee-Co.-Year-1-Sales-and-Profit-Analysis/blob/10ea1f1000681ee9aaa4477c52f635758446db85/sales-data.xlsx)
 - **Values:** 630 transactions in dataset
 - **Duration:** April 2025 - March 2026
 - **Scope:** Three physical store locations and one online store across southwestern CT.
