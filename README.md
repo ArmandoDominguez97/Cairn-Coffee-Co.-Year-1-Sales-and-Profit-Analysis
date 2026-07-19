@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following areas:
 - **Channel Comparision:** Cairn Coffee sells it's products through four distinct channels, each evaluated on its contribution to total profit, and operational efficiency.
 
 ## Data Structure
-- **Source:** This analysis is was done on real sales data for an actual coffee company. For confidentiality purposes, I have replaced the real data with syntheitc "dummy" data and replaced the company's branding as well.
+- **Source:** This analysis is was done on real sales data for an actual coffee company. For confidentiality purposes, I have replaced the real data with syntheitc "dummy" data and replaced the company's name as well.
 - **Values:** 630 transactions in dataset
 - **Duration:** April 2025 - March 2026
 - **Scope:** Three physical store locations and one online store across southwestern CT.
@@ -59,6 +59,8 @@ A review of product and category performance reveal the following insights:
 
 ## Channel Performance
 
+![Channel Performace](https://github.com/ArmandoDominguez97/Cairn-Coffee-Co.-Year-1-Sales-and-Profit-Analysis/blob/099828f8158cc9211dac14d0edb2bbc5ece3e0db/Visualizations/Channel_Performance_Visualizations.png)
+
 A deeper look into each sales channel uncovered the following insights: 
 
 - The Online and Downtown Shop channels account for 78% of total profit, making them the clear engines of the business as far as channel is concerned. 
@@ -66,6 +68,8 @@ A deeper look into each sales channel uncovered the following insights:
 - Profit margins were consistent across all channels, pointing to a reliable level of operational efficiency for every location. If the same efficienct can be replicated for new channels, a winter or holiday market may be worth considering, as a strategy for recovering lost revenue whenever the farmer's market and cold brew demand are out of season.
 
 ## Recommendations
+
+Here are three recommendations based on the results of Cairn Coffee's first year in operation:
 
 - Coffee Beans have not only established themselves as the company's profit engine, but they also reflect a loyal customer base that consistently enjoys drinking Cairn Coffee. That loyalty can be targeted with promotions and product bundles to boost sales in the other categories. For instance, merchandise can be promoted to coffee bean buyers, as loyal customers are the most likely to purchase merchandise that allows them to rep the brand.  
 - Addressing the company's revenue drop in Q3 requires a channel and product response. On the channel side, the consistent margins Cairn has maintained across all existing channels suggest the feasibility of a winter or holiday market to recover farmers' market demand after October. This new channel could push Espresso as the cold-weather analogue to Cold Brew's summer demand, since Espresso is served at high temperatures and it outsells drip coffee, the other candidate for such a push.
